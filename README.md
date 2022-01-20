@@ -1,9 +1,7 @@
 # Real-Time-Bus-Tracker
-Real-Time Bus Tracker
 
 <img src="boston-bus1.jpg" width='300'/>
 
-Real-Time Bus Tracker project
 This is an exercise developed during MIT xPro Professional Certificate in Coding: Full Stack Development with MERN. It's about using the MBTA bus data to determine stops between Harvard and MIT. I added an animated marker on the map to highlight the bus routes
 
 ## Installation 🔧
