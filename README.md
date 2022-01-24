@@ -11,7 +11,7 @@ To install this project in your machine, follow these steps:
 1. Download or clone the project
 2. Go to content folder and add it to your code editor tool
 3. Go to MapBox and get an API Token, in mapanimation.js fille, replace mapboxgl.accessToken = "THIS VALUE"; with your own API token
-4. Open realtimebustracker.html
+4. Open realtimebustracker.html in your chrome browser to see the bus move from one stop to other on the map
 
 ## Run 🚀
 1. When the map is loaded, you should be able to see a marker moving from one bus stop to the next on the map
